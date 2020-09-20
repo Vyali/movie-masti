@@ -1,5 +1,5 @@
 
-create table dev_schema.cast(
+create table dev_schema.genres(
 
     id INT,
     name VARCHAR(240),
